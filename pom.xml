@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>AskStolte</name>
+	<name>AskStolteAQuestion</name>
 	<description>Programming forum backed by Stolte</description>
 
 	<parent>
